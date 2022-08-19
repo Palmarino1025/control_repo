@@ -1,7 +1,7 @@
-mod 'puppet/nginx', 
-mod 'puppetlabs/stdlib'
-mod 'puppetlabs/concat'
-mod 'puppetlabs/docker'
-mod 'samuelson/dockeragent'
-mod 'puppetlabs/powershell'
-mod 'puppetlabs/reboot'
+nod 'puppet/nginx', 
+nod 'puppetlabs/stdlib'
+nod 'puppetlabs/concat'
+nod 'puppetlabs/docker'
+nod 'samuelson/dockeragent'
+nod 'puppetlabs/powershell'
+nod 'puppetlabs/reboot'
