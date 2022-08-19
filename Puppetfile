@@ -1,4 +1,4 @@
-nod 'puppet/nginx', 
+nod 'puppet/nginx'
 nod 'puppetlabs/stdlib'
 nod 'puppetlabs/concat'
 nod 'puppetlabs/docker'
