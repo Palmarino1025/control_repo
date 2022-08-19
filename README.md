@@ -1,3 +1,3 @@
 # control_repo
 
-this is a change
+This is my practice while learning Puppet
